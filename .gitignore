@@ -1,0 +1,4 @@
+*.mk
+*.xml
+*.bash
+makefile
